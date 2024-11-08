@@ -9,7 +9,7 @@
 </div>
 - :credit_card: My full name is **Nguyễn Hoàng Lam Trường**
 <br>
-- :school: I'm currently the last year student at **FPT University - Ho Chi Minh City Campus**
+- :school: I graduated from **FPT University - Ho Chi Minh City Campus**
 <br>
 - :books: My major is **Software Engineering**
 
